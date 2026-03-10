@@ -1,3 +1,3 @@
-# voidbr-pkgfile
+# voidbr-network-tools
 
-Template for VoidBR pkgmake/pkgfile packages
+Meta‑pacote com utilitários essenciais de rede e monitoramento para VoidBR
