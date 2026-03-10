@@ -29,7 +29,6 @@ depends=(
 	netcat
 	traceroute
 	mtr
-	arping
 	whois
 	curl
 	wget
@@ -46,12 +45,8 @@ depends=(
 	tcpdump
 	wireshark
 	collectd
-	smokeping
 	net-snmp
-	nagios
 	zabbix-agent
-	prometheus-node-exporter
-
 )
 
 # Automatically detect and use the correct install file
