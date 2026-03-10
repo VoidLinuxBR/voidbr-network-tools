@@ -12,6 +12,8 @@ source=("git+${url}.git")
 md5sums=('SKIP')
 makedepends=()
 depends=(
+  lsof
+  nmap
 	tmate
 	inetutils
 	iputils
