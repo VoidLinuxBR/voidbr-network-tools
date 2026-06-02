@@ -1,7 +1,7 @@
 # Maintainer: Vilmar Catafesta <vcatafesta@gmail.com>
 
 pkgname=voidbr-network-tools
-pkgdesc="Meta‑pacote com utilitários essenciais de rede e monitoramento para Void Linux."
+pkgdesc="Meta‑pacote com utilitários essenciais de rede e monitoramento para Void Linux"
 pkgver=$(date +%Y%m%d)
 pkgrel=$(date +%H%M)
 arch=('any')
